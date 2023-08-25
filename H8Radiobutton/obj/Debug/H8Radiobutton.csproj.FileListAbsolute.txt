@@ -1,0 +1,11 @@
+C:\Users\emili\source\repos\H1Form\H8Radiobutton\bin\Debug\H8Radiobutton.exe.config
+C:\Users\emili\source\repos\H1Form\H8Radiobutton\bin\Debug\H8Radiobutton.exe
+C:\Users\emili\source\repos\H1Form\H8Radiobutton\bin\Debug\H8Radiobutton.pdb
+C:\Users\emili\source\repos\H1Form\H8Radiobutton\obj\Debug\H8Radiobutton.csproj.AssemblyReference.cache
+C:\Users\emili\source\repos\H1Form\H8Radiobutton\obj\Debug\H8Radiobutton.csproj.SuggestedBindingRedirects.cache
+C:\Users\emili\source\repos\H1Form\H8Radiobutton\obj\Debug\H8Radiobutton.H8Radiobutton.resources
+C:\Users\emili\source\repos\H1Form\H8Radiobutton\obj\Debug\H8Radiobutton.Properties.Resources.resources
+C:\Users\emili\source\repos\H1Form\H8Radiobutton\obj\Debug\H8Radiobutton.csproj.GenerateResource.cache
+C:\Users\emili\source\repos\H1Form\H8Radiobutton\obj\Debug\H8Radiobutton.csproj.CoreCompileInputs.cache
+C:\Users\emili\source\repos\H1Form\H8Radiobutton\obj\Debug\H8Radiobutton.exe
+C:\Users\emili\source\repos\H1Form\H8Radiobutton\obj\Debug\H8Radiobutton.pdb

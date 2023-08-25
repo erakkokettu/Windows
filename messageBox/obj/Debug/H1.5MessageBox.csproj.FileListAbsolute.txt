@@ -1,0 +1,11 @@
+C:\Users\emili\source\repos\H1Form\messageBox\bin\Debug\messageBox.exe.config
+C:\Users\emili\source\repos\H1Form\messageBox\bin\Debug\messageBox.exe
+C:\Users\emili\source\repos\H1Form\messageBox\bin\Debug\messageBox.pdb
+C:\Users\emili\source\repos\H1Form\messageBox\obj\Debug\H1.5MessageBox.csproj.AssemblyReference.cache
+C:\Users\emili\source\repos\H1Form\messageBox\obj\Debug\H1.5MessageBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\emili\source\repos\H1Form\messageBox\obj\Debug\messageBox.Form1.resources
+C:\Users\emili\source\repos\H1Form\messageBox\obj\Debug\messageBox.Properties.Resources.resources
+C:\Users\emili\source\repos\H1Form\messageBox\obj\Debug\H1.5MessageBox.csproj.GenerateResource.cache
+C:\Users\emili\source\repos\H1Form\messageBox\obj\Debug\H1.5MessageBox.csproj.CoreCompileInputs.cache
+C:\Users\emili\source\repos\H1Form\messageBox\obj\Debug\messageBox.exe
+C:\Users\emili\source\repos\H1Form\messageBox\obj\Debug\messageBox.pdb

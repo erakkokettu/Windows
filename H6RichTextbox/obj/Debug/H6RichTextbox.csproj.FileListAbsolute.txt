@@ -1,0 +1,11 @@
+C:\Users\emili\source\repos\H1Form\H6RichTextbox\bin\Debug\H6RichTextbox.exe.config
+C:\Users\emili\source\repos\H1Form\H6RichTextbox\bin\Debug\H6RichTextbox.exe
+C:\Users\emili\source\repos\H1Form\H6RichTextbox\bin\Debug\H6RichTextbox.pdb
+C:\Users\emili\source\repos\H1Form\H6RichTextbox\obj\Debug\H6RichTextbox.csproj.AssemblyReference.cache
+C:\Users\emili\source\repos\H1Form\H6RichTextbox\obj\Debug\H6RichTextbox.csproj.SuggestedBindingRedirects.cache
+C:\Users\emili\source\repos\H1Form\H6RichTextbox\obj\Debug\H6RichTextbox.H6RichTextbox.resources
+C:\Users\emili\source\repos\H1Form\H6RichTextbox\obj\Debug\H6RichTextbox.Properties.Resources.resources
+C:\Users\emili\source\repos\H1Form\H6RichTextbox\obj\Debug\H6RichTextbox.csproj.GenerateResource.cache
+C:\Users\emili\source\repos\H1Form\H6RichTextbox\obj\Debug\H6RichTextbox.csproj.CoreCompileInputs.cache
+C:\Users\emili\source\repos\H1Form\H6RichTextbox\obj\Debug\H6RichTextbox.exe
+C:\Users\emili\source\repos\H1Form\H6RichTextbox\obj\Debug\H6RichTextbox.pdb

@@ -1,0 +1,11 @@
+C:\Users\emili\source\repos\H1Form\H1Form\bin\Debug\H1Form.exe.config
+C:\Users\emili\source\repos\H1Form\H1Form\bin\Debug\H1Form.exe
+C:\Users\emili\source\repos\H1Form\H1Form\bin\Debug\H1Form.pdb
+C:\Users\emili\source\repos\H1Form\H1Form\obj\Debug\H1Form.csproj.AssemblyReference.cache
+C:\Users\emili\source\repos\H1Form\H1Form\obj\Debug\H1Form.csproj.SuggestedBindingRedirects.cache
+C:\Users\emili\source\repos\H1Form\H1Form\obj\Debug\H1Form.H1Form.resources
+C:\Users\emili\source\repos\H1Form\H1Form\obj\Debug\H1Form.Properties.Resources.resources
+C:\Users\emili\source\repos\H1Form\H1Form\obj\Debug\H1Form.csproj.GenerateResource.cache
+C:\Users\emili\source\repos\H1Form\H1Form\obj\Debug\H1Form.csproj.CoreCompileInputs.cache
+C:\Users\emili\source\repos\H1Form\H1Form\obj\Debug\H1Form.exe
+C:\Users\emili\source\repos\H1Form\H1Form\obj\Debug\H1Form.pdb

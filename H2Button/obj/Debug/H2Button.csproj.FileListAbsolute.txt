@@ -1,0 +1,11 @@
+C:\Users\emili\source\repos\H1Form\H2Button\bin\Debug\H2Button.exe.config
+C:\Users\emili\source\repos\H1Form\H2Button\bin\Debug\H2Button.exe
+C:\Users\emili\source\repos\H1Form\H2Button\bin\Debug\H2Button.pdb
+C:\Users\emili\source\repos\H1Form\H2Button\obj\Debug\H2Button.csproj.AssemblyReference.cache
+C:\Users\emili\source\repos\H1Form\H2Button\obj\Debug\H2Button.csproj.SuggestedBindingRedirects.cache
+C:\Users\emili\source\repos\H1Form\H2Button\obj\Debug\H2Button.H2Button.resources
+C:\Users\emili\source\repos\H1Form\H2Button\obj\Debug\H2Button.Properties.Resources.resources
+C:\Users\emili\source\repos\H1Form\H2Button\obj\Debug\H2Button.csproj.GenerateResource.cache
+C:\Users\emili\source\repos\H1Form\H2Button\obj\Debug\H2Button.csproj.CoreCompileInputs.cache
+C:\Users\emili\source\repos\H1Form\H2Button\obj\Debug\H2Button.exe
+C:\Users\emili\source\repos\H1Form\H2Button\obj\Debug\H2Button.pdb

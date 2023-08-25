@@ -1,0 +1,11 @@
+C:\Users\emili\source\repos\H1Form\H5MasketTextbox\obj\Debug\H5MasketTextbox.csproj.AssemblyReference.cache
+C:\Users\emili\source\repos\H1Form\H5MasketTextbox\obj\Debug\H5MasketTextbox.csproj.SuggestedBindingRedirects.cache
+C:\Users\emili\source\repos\H1Form\H5MasketTextbox\obj\Debug\H5MasketTextbox.H5MasketTextbox.resources
+C:\Users\emili\source\repos\H1Form\H5MasketTextbox\obj\Debug\H5MasketTextbox.Properties.Resources.resources
+C:\Users\emili\source\repos\H1Form\H5MasketTextbox\obj\Debug\H5MasketTextbox.csproj.GenerateResource.cache
+C:\Users\emili\source\repos\H1Form\H5MasketTextbox\obj\Debug\H5MasketTextbox.csproj.CoreCompileInputs.cache
+C:\Users\emili\source\repos\H1Form\H5MasketTextbox\bin\Debug\H5MasketTextbox.exe.config
+C:\Users\emili\source\repos\H1Form\H5MasketTextbox\bin\Debug\H5MasketTextbox.exe
+C:\Users\emili\source\repos\H1Form\H5MasketTextbox\bin\Debug\H5MasketTextbox.pdb
+C:\Users\emili\source\repos\H1Form\H5MasketTextbox\obj\Debug\H5MasketTextbox.exe
+C:\Users\emili\source\repos\H1Form\H5MasketTextbox\obj\Debug\H5MasketTextbox.pdb

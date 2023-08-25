@@ -1,0 +1,11 @@
+C:\Users\emili\source\repos\H1Form\H7CheckBox\obj\Debug\H7CheckBox.csproj.AssemblyReference.cache
+C:\Users\emili\source\repos\H1Form\H7CheckBox\obj\Debug\H7CheckBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\emili\source\repos\H1Form\H7CheckBox\obj\Debug\H7CheckBox.H7.resources
+C:\Users\emili\source\repos\H1Form\H7CheckBox\obj\Debug\H7CheckBox.Properties.Resources.resources
+C:\Users\emili\source\repos\H1Form\H7CheckBox\obj\Debug\H7CheckBox.csproj.GenerateResource.cache
+C:\Users\emili\source\repos\H1Form\H7CheckBox\obj\Debug\H7CheckBox.csproj.CoreCompileInputs.cache
+C:\Users\emili\source\repos\H1Form\H7CheckBox\bin\Debug\H7CheckBox.exe.config
+C:\Users\emili\source\repos\H1Form\H7CheckBox\bin\Debug\H7CheckBox.exe
+C:\Users\emili\source\repos\H1Form\H7CheckBox\bin\Debug\H7CheckBox.pdb
+C:\Users\emili\source\repos\H1Form\H7CheckBox\obj\Debug\H7CheckBox.exe
+C:\Users\emili\source\repos\H1Form\H7CheckBox\obj\Debug\H7CheckBox.pdb

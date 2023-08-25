@@ -1,0 +1,11 @@
+C:\Users\emili\source\repos\H1Form\H3TextBox\bin\Debug\H3TextBox.exe.config
+C:\Users\emili\source\repos\H1Form\H3TextBox\bin\Debug\H3TextBox.exe
+C:\Users\emili\source\repos\H1Form\H3TextBox\bin\Debug\H3TextBox.pdb
+C:\Users\emili\source\repos\H1Form\H3TextBox\obj\Debug\H3TextBox.csproj.AssemblyReference.cache
+C:\Users\emili\source\repos\H1Form\H3TextBox\obj\Debug\H3TextBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\emili\source\repos\H1Form\H3TextBox\obj\Debug\H3TextBox.Properties.Resources.resources
+C:\Users\emili\source\repos\H1Form\H3TextBox\obj\Debug\H3TextBox.csproj.GenerateResource.cache
+C:\Users\emili\source\repos\H1Form\H3TextBox\obj\Debug\H3TextBox.csproj.CoreCompileInputs.cache
+C:\Users\emili\source\repos\H1Form\H3TextBox\obj\Debug\H3TextBox.exe
+C:\Users\emili\source\repos\H1Form\H3TextBox\obj\Debug\H3TextBox.pdb
+C:\Users\emili\source\repos\H1Form\H3TextBox\obj\Debug\H3TextBox.H3TextBox.resources

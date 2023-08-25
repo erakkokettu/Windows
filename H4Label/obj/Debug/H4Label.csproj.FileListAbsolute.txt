@@ -1,0 +1,11 @@
+C:\Users\emili\source\repos\H1Form\H4Label\bin\Debug\H4Label.exe.config
+C:\Users\emili\source\repos\H1Form\H4Label\bin\Debug\H4Label.exe
+C:\Users\emili\source\repos\H1Form\H4Label\bin\Debug\H4Label.pdb
+C:\Users\emili\source\repos\H1Form\H4Label\obj\Debug\H4Label.csproj.AssemblyReference.cache
+C:\Users\emili\source\repos\H1Form\H4Label\obj\Debug\H4Label.csproj.SuggestedBindingRedirects.cache
+C:\Users\emili\source\repos\H1Form\H4Label\obj\Debug\H4Label.H4Label.resources
+C:\Users\emili\source\repos\H1Form\H4Label\obj\Debug\H4Label.Properties.Resources.resources
+C:\Users\emili\source\repos\H1Form\H4Label\obj\Debug\H4Label.csproj.GenerateResource.cache
+C:\Users\emili\source\repos\H1Form\H4Label\obj\Debug\H4Label.csproj.CoreCompileInputs.cache
+C:\Users\emili\source\repos\H1Form\H4Label\obj\Debug\H4Label.exe
+C:\Users\emili\source\repos\H1Form\H4Label\obj\Debug\H4Label.pdb
